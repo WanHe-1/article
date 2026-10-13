@@ -17,13 +17,17 @@
 
 其实原理很基础，当g（栅极）施加电压时，它下方氧化物层的电子便会收到吸引力，那么源极与漏极和电子层便形成通路。
 
-<div align="center">
+<div align="left">
   <img src="./n沟道mos.jpg" alt="n沟道mos" width="320">
 </div>
-此图为n沟道mos
+
+<div align="right">
+  <img src="./p沟道mos.png" alt="p沟道mos" width="320">
+</div>
+
 
 其实n沟道与p沟道主要区别就是电流方向
 <div align="center">
   <img src="./nmos与pmos.png" alt="nmos与pmos" width="360">
 </div>
-他们实际其实就是底部的化学
+他们实际其实就是底部的化学  
