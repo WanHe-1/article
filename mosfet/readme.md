@@ -4,11 +4,15 @@
 
 
 首先它的结构就四个部分源极（S）、漏极（D）、**栅极（G）**和衬底（B）[Source (S), Drain (D), Gate (G), and body (B)] 
+<div align="center">
+  <img src="./mos结构.jpg" alt="mos结构" width="320">
+</div>
 
 衬底（B）通常与源极相连，使器件实际使用的端子数变为三个。其工作原理为通过改变电荷载流子（电子或空穴）流经的沟道宽度，实现对电流的控制。
 
+
 <div align="center">
-  <img src="./mos结构.jpg" alt="mos结构" width="320">
+  <img src="./mos俯视图.png" alt="mos俯视图" width="320">
 </div>
 
 电荷载流子从源极进入沟道，从漏极流出。沟道宽度由位于源极与漏极之间的栅极电极上的电压控制，栅极与沟道之间由一层极薄的金属氧化物实现绝缘。
@@ -30,4 +34,3 @@
 <div align="center">
   <img src="./nmos与pmos.png" alt="nmos与pmos" width="360">
 </div>
-他们实际其实就是底部的化学  
